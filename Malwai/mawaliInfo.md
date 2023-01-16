@@ -1,10 +1,10 @@
 ### reference links
 1. https://farandwild.travel/wilder/article/where-big-5-safari-malawi
 2. Official gov website: https://visitmalawi.mw/index.php/game-drives/
-   *the pdf (document)[https://visitmalawi.mw/index.php/download/prospectus-for-protected-area-management-and-ecotourism-investment-in-malawi-2/?wpdmdl=2982&refresh=63c5708e5ccb0167388379001~] from this website  has decent overall maps*
-3. (Liwonde)[#Liwonde] Link from Official website:  https://www.safari.co.za/place/Liwonde-National-Park.html
+   *the pdf [document](https://visitmalawi.mw/index.php/download/prospectus-for-protected-area-management-and-ecotourism-investment-in-malawi-2/?wpdmdl=2982&refresh=63c5708e5ccb0167388379001~) from this website  has decent overall maps*
+3. [Liwonde](#Liwonde) Link from Official website:  https://www.safari.co.za/place/Liwonde-National-Park.html
 4. Decent itinerary... gives some ideas on how to hack the national park: https://www.safari.co.za/Malawi_Safari_Tours-travel/wilderness-safari-tour-ultimate-guided.html
-5. (Kasungu)[#kasungu] https://www.malawitourism.com/regions/central-malawi/kasungu-national-park/
+5. [Kasungu](#kasungu) https://www.malawitourism.com/regions/central-malawi/kasungu-national-park/
 6. 
 
 ---
@@ -34,7 +34,7 @@ Response from Mvuu: Drive from Lilongwe is 4.5 hrs and from Blantyre 3.5. they g
 - Transfer by boat – 5 minutes, to MVUU CAMP OR LODGE. $8 per person return.
 
 
-Lodge: Mvuu Wilderness (Lodge)[https://cawsmw.com/mvuu-lodge]
+Lodge: Mvuu Wilderness [Lodge](https://cawsmw.com/mvuu-lodge)
 
 Animals: Hippos and Crocodiles, Elephants, zebras, antelops. 
 
