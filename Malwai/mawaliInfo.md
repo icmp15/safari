@@ -9,7 +9,7 @@
 
 ---
 
-##Majete
+## Majete
 Airport: Blantyre
 
 Animals: Black Rhino, Elephant, Buffalo, Zebra, Hartebeest and many antelope species including Kudu and Roan
@@ -19,7 +19,7 @@ Kapichira falls
 
 ---
 
-##Liwonde
+## Liwonde
 Airport: Blantyre
 Best to arrive by boat
 other options: 45 min flight to Mvuu Lodge in the park.
@@ -44,7 +44,7 @@ Guided walks, boat trips, night drives.
 
 ---
 
-##Kasungu
+## Kasungu
 Airport: Lilongwe - 165 km NW from capital city
 Entry from motorway: Lisitu gate.
 
